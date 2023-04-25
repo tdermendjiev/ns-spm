@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "NativeScript",
+    name: "NativeScript2",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "NativeScript",
-            targets: ["NativeScript"]),
+            name: "NativeScript2",
+            targets: ["NativeScript2"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -24,7 +24,7 @@ let package = Package(
         //     checksum: "227258fdb2f920f8ce90d4f08d019e1b0db5a4ad2090afa012fd7c2c91716df3"
         // )
         .binaryTarget(
-            name: "NativeScript",
+            name: "NativeScript2",
             path: "NativeScript2.xcframework"
         )
         //  .binaryTarget(
