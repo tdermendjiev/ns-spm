@@ -1272,6 +1272,10 @@
 		<data>
 		lqLybl3ry2hGaxrAXjGt8DuGXWw=
 		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		ixaoN/YqOL7lmb6tYgrJTS2wnTE=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -3485,6 +3489,13 @@
 			<key>hash2</key>
 			<data>
 			HEzv5vxfVVxye9KXcez8JsmK+SICnHksVlFZRPBVz8s=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ea2ZUKV/8SAb1VpRIKvKW6M1YIPHmk95PRrig2f/0mo=
 			</data>
 		</dict>
 	</dict>
