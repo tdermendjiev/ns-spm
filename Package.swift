@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "FirebaseAnalytics",
+    name: "NativeScript",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "FirebaseAnalytics",
-            targets: ["FirebaseAnalytics"]),
+            name: "NativeScript",
+            targets: ["NativeScript"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -24,8 +24,8 @@ let package = Package(
         //     checksum: "227258fdb2f920f8ce90d4f08d019e1b0db5a4ad2090afa012fd7c2c91716df3"
         // )
         .binaryTarget(
-            name: "FirebaseAnalytics",
-            path: "FirebaseAnalytics.xcframework"
+            name: "NativeScript",
+            path: "NativeScript.xcframework"
         )
         //  .binaryTarget(
         //     name: "NativeScript",
