@@ -1,0 +1,5 @@
+framework module NativeScript {
+    umbrella header "NativeScript.h"
+    export *
+    module * { export * }
+}
