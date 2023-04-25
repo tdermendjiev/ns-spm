@@ -25,7 +25,7 @@ let package = Package(
         // )
         .binaryTarget(
             name: "NativeScript",
-            path: "NativeScript.xcframework"
+            path: "NativeScript2.xcframework"
         )
         //  .binaryTarget(
         //     name: "NativeScript",
