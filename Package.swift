@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "NativeScriptSDK",
+    platforms: [
+        .iOS(.v13)  // or whichever minimum version you target
+    ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
@@ -16,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "NativeScript",
             path: "NativeScript.xcframework"
-        )
+        ),
         .target(
             name: "NativeScriptSource", // This is your new source target
             dependencies: ["NativeScript"], // It depends on the binary target
