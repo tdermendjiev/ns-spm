@@ -10,23 +10,7 @@
 		</data>
 		<key>Headers/NativeScript.h</key>
 		<data>
-		47caeJ+pH6230ajlCQ4y7WC0S+A=
-		</data>
-		<key>Headers/embedding/NativeScriptEmbedder.h</key>
-		<data>
-		YdUzLHEcwKxi4BlOGAd9L/UpOxE=
-		</data>
-		<key>Headers/embedding/NativeScriptSDK.h</key>
-		<data>
-		9dRTFDOJD9Y772c329lO/5rUaI0=
-		</data>
-		<key>Headers/embedding/NativeScriptUtils.h</key>
-		<data>
-		NmTVH15HjGBU4AUSLD3PxbxbgRE=
-		</data>
-		<key>Headers/embedding/UIView+NativeScript.h</key>
-		<data>
-		++88JFs3DRvvwODWi/UjAKefwZg=
+		iyWXwZoEkw8LoGTbWGjzsGt+99A=
 		</data>
 		<key>Headers/include/cppgc/allocation.h</key>
 		<data>
@@ -1150,7 +1134,7 @@
 		</data>
 		<key>Headers/runtime/Interop.h</key>
 		<data>
-		BL7630SQgS8u7+Et/W1S5VnrvDQ=
+		/A7LFNWDwwfQYkmI0U/Jew04Xg0=
 		</data>
 		<key>Headers/runtime/IsolateWrapper.h</key>
 		<data>
@@ -1170,7 +1154,7 @@
 		</data>
 		<key>Headers/runtime/MetadataInlines.h</key>
 		<data>
-		INxBOcrVtdWgIUb5xM212C+57BM=
+		EKxJ8v6pTjoFH/JcYBI/vwGZbGg=
 		</data>
 		<key>Headers/runtime/ModuleInternal.h</key>
 		<data>
@@ -1262,7 +1246,7 @@
 		</data>
 		<key>Headers/runtime/robin_hood.h</key>
 		<data>
-		9WNHkCT2fFRnqgLMvvAv929pwMg=
+		Pw3m+UymiwYktwFWdB0yqjkbzmw=
 		</data>
 		<key>Headers/v8runtime/HostProxy.h</key>
 		<data>
@@ -1314,35 +1298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfDzacohSi+Qjp92qM2AfpyN+Hp26PR+WIQmf+bU2Ro=
-			</data>
-		</dict>
-		<key>Headers/embedding/NativeScriptEmbedder.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Cbt1/zmi0yg7r5NorSZGLwImN4zOp/O+4E8lmTVZoJs=
-			</data>
-		</dict>
-		<key>Headers/embedding/NativeScriptSDK.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CF7AHtR15jQB1xUMOA6dB9tzx01/uFevjfvORtd7y7w=
-			</data>
-		</dict>
-		<key>Headers/embedding/NativeScriptUtils.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FC8Ur3ySvyAnjo2NR7zEbiSSJfalGQbx0Tu6jtZYeqY=
-			</data>
-		</dict>
-		<key>Headers/embedding/UIView+NativeScript.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c8d56+rH3MU1hBSxExY5yVchkri0MxHwEcHmZpuFy3w=
+			+8KvBiuHscBlWv6cyWBAdYYdPC4pjTfnJLws8KtBJZs=
 			</data>
 		</dict>
 		<key>Headers/include/cppgc/allocation.h</key>
@@ -3309,7 +3265,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			14graulF2RNZx/sqbhrB5NuxpQA2OGlecbAHwI29vwA=
+			65EbzIpjKP11vTyr1lLwsnmHhnRDzIidUPVii0+XMKw=
 			</data>
 		</dict>
 		<key>Headers/runtime/IsolateWrapper.h</key>
@@ -3344,7 +3300,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kppqm7oWcyXeZhJsZ4PiuoQSIPkXXqkdNwjp4gkdTq0=
+			HPrOCjIYsMpu2WahDaQbBD6MZGv2gsy4DVfVH2a3hFY=
 			</data>
 		</dict>
 		<key>Headers/runtime/ModuleInternal.h</key>
@@ -3505,7 +3461,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ltHaSUwMr9f4PUUxq1F7DQQ/D+kyipqJ5sCW8c+PI88=
+			JEnhlFPtQbwPaNHuuauOHPBIpY7R+pdcaRv86+K1P5U=
 			</data>
 		</dict>
 		<key>Headers/v8runtime/HostProxy.h</key>
