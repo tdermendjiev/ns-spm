@@ -5,6 +5,8 @@
 	<key>AvailableLibraries</key>
 	<array>
 		<dict>
+			<key>BinaryPath</key>
+			<string>NativeScript.framework/NativeScript</string>
 			<key>DebugSymbolsPath</key>
 			<string>dSYMs</string>
 			<key>LibraryIdentifier</key>
@@ -19,6 +21,26 @@
 			<string>ios</string>
 		</dict>
 		<dict>
+			<key>BinaryPath</key>
+			<string>NativeScript.framework/Versions/A/NativeScript</string>
+			<key>DebugSymbolsPath</key>
+			<string>dSYMs</string>
+			<key>LibraryIdentifier</key>
+			<string>ios-arm64-maccatalyst</string>
+			<key>LibraryPath</key>
+			<string>NativeScript.framework</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>ios</string>
+			<key>SupportedPlatformVariant</key>
+			<string>maccatalyst</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>NativeScript.framework/NativeScript</string>
 			<key>DebugSymbolsPath</key>
 			<string>dSYMs</string>
 			<key>LibraryIdentifier</key>
@@ -34,22 +56,6 @@
 			<string>ios</string>
 			<key>SupportedPlatformVariant</key>
 			<string>simulator</string>
-		</dict>
-		<dict>
-			<key>DebugSymbolsPath</key>
-			<string>dSYMs</string>
-			<key>LibraryIdentifier</key>
-			<string>ios-arm64-maccatalyst</string>
-			<key>LibraryPath</key>
-			<string>NativeScript.framework</string>
-			<key>SupportedArchitectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>SupportedPlatform</key>
-			<string>ios</string>
-			<key>SupportedPlatformVariant</key>
-			<string>maccatalyst</string>
 		</dict>
 	</array>
 	<key>CFBundlePackageType</key>
